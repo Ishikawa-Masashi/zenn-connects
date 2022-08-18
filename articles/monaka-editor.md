@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "ブラウザで使用できる縦書きテキストエディタ"
 emoji: "👻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: []
